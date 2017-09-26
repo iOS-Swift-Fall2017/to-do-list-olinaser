@@ -12,6 +12,7 @@
 		A71D86981F780F3600C463D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A71D86961F780F3600C463D7 /* Main.storyboard */; };
 		A71D869A1F780F3600C463D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A71D86991F780F3600C463D7 /* Assets.xcassets */; };
 		A71D869D1F780F3600C463D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A71D869B1F780F3600C463D7 /* LaunchScreen.storyboard */; };
+		A71D86A71F781D1400C463D7 /* detailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71D86A61F781D1400C463D7 /* detailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A71D86991F780F3600C463D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A71D869C1F780F3600C463D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A71D869E1F780F3600C463D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A71D86A61F781D1400C463D7 /* detailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = detailViewController.swift; path = ../detailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A71D86921F780F3600C463D7 /* AppDelegate.swift */,
 				A71D86941F780F3600C463D7 /* ViewController.swift */,
+				A71D86A61F781D1400C463D7 /* detailViewController.swift */,
 				A71D86961F780F3600C463D7 /* Main.storyboard */,
 				A71D86991F780F3600C463D7 /* Assets.xcassets */,
 				A71D869B1F780F3600C463D7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				A71D86951F780F3600C463D7 /* ViewController.swift in Sources */,
 				A71D86931F780F3600C463D7 /* AppDelegate.swift in Sources */,
+				A71D86A71F781D1400C463D7 /* detailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
